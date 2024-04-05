@@ -1,0 +1,95 @@
+[
+    {
+        "id": 1,
+        "title": "Awesome Wooden",
+        "price": 889.0,
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "category": "Furniture",
+        "image": "assets/images/yellow1.png",
+        "isSelected":false ,
+        "sub_img": [
+            "assets/images/yellow1.png",
+            "assets/images/yellow2_prev_ui.png",
+            "assets/images/yellow3_prev_ui.png"
+        ],
+        "rating": {
+            "rate": 3.2,
+            "count": 110
+        }
+    },
+    {
+        "id": 2,
+        "title": "Couch Furniture",
+        "price": 450.0,
+        "description": "Couch Furniture Loveseat Rococo Louis Quinze, Celtic Style, furniture",
+        "category": "Furniture",
+        "image": "assets/images/b1_prev_ui.png",
+        "isSelected":false ,
+        "sub_img": [
+            "assets/images/b1_prev_ui.png",
+            "assets/images/b2_prev_ui.png",
+            "assets/images/b3_prev_ui.png",
+            "assets/images/b4_prev_ui.png"
+        ],
+        "rating": {
+            "rate": 2.9,
+            "count": 150
+        }
+    },
+    {
+        "id": 3,
+        "title": "Generic Plastic ",
+        "price": 403.0,
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "category": "Furniture",
+        "image": "assets/images/g1_prev_ui.png",
+        "isSelected":false ,
+        "sub_img": [
+            "assets/images/g1_prev_ui.png",
+            "assets/images/g2_prev_ui.png",
+            "assets/images/g3_prev_ui.png",
+            "assets/images/g4_prev_ui.png"
+        ],
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 4,
+        "title": "Urbancart",
+        "price": 300.0,
+        "description": "UrbanCart is an aspiring brand of Jubilant Enterprise LLP which is an online one-stop destination for products like home essentials, furniture & dcor. We are creative, innovative and always striving to bring new and unique products and also curating it from all over the world and bringing it at your doorsteps and your homes are just one of the many canvases we have at our disposal. These are Eames Iconic Replicas, contoured to fit a person and come with either arms that are an extension of the seat or sleek and armless also having typical wooden splayed legs. These chairs represent the playful functionality of Mid-Century American design.",
+        "category": "Furniture",
+        "image": "assets/images/ch1_prev_ui.png",
+        "isSelected":false ,
+        "sub_img": [
+            "assets/images/ch1_prev_ui.png",
+            "assets/images/ch2_prev_ui.png",
+            "assets/images/ch3_prev_ui.png"
+        ],
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 5,
+        "title": "Bohemiana Wooden",
+        "price": 210.0,
+        "description": "Bohemiana is a new range of furniture inspired by the spirit of freedom and adventure. The design philosophy explores the use of a combination of materials, colours, patterns and textures to create unique handcrafted furniture, of the finest quality.",
+        "category": "Furniture",
+        "image": "assets/images/ss1_prev_ui.png",
+        "isSelected":false ,
+        "sub_img": [
+            "assets/images/ss1_prev_ui.png",
+            "assets/images/ss2_prev_ui.png",
+            "assets/images/ss3_prev_ui.png",
+            "assets/images/ss4_prev_ui.png"
+        ],
+        "rating": {
+            "rate": 2.9,
+            "count": 180
+        }
+    }
+]

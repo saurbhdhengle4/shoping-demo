@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "title": "Pepperfry",
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "category": "Furniture",
+        "logo":"assets/images/Pepperfry.png",
+        "image": "assets/images/sofa Banner design.jfif",
+        "like":"1.2k",
+        "communts":"100"
+        
+    },
+    {
+        "id": 2,
+        "title": "UrbanLadder",
+        "description": "Couch Furniture Loveseat Rococo Louis Quinze, Celtic Style, furniture",
+        "category": "Furniture",
+        "logo":"assets/images/UrbanLadder.png",
+        "image": "assets/images/f2.jpg",
+        "like":"2.2k",
+        "communts":"210"
+        
+    }
+  
+]
+
+
+

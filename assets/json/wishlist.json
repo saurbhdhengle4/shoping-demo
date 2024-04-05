@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "title": "Awesome Wooden",
+        "price": 889.0,
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "category": "Furniture",
+        "image": "assets/images/yellow1.png",
+        "isSelected":false ,
+        "sub_img": [
+            "assets/images/yellow1.png",
+            "assets/images/yellow2_prev_ui.png",
+            "assets/images/yellow3_prev_ui.png"
+        ],
+        "rating": {
+            "rate": 3.2,
+            "count": 110
+        }
+    },
+    {
+        "id": 2,
+        "title": "Couch Furniture",
+        "price": 450.0,
+        "description": "Couch Furniture Loveseat Rococo Louis Quinze, Celtic Style, furniture",
+        "category": "Furniture",
+        "image": "assets/images/b1_prev_ui.png",
+        "isSelected":false ,
+        "sub_img": [
+            "assets/images/b1_prev_ui.png",
+            "assets/images/b2_prev_ui.png",
+            "assets/images/b3_prev_ui.png",
+            "assets/images/b4_prev_ui.png"
+        ],
+        "rating": {
+            "rate": 2.9,
+            "count": 150
+        }
+    },
+    {
+        "id": 3,
+        "title": "Generic Plastic ",
+        "price": 403.0,
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "category": "Furniture",
+        "image": "assets/images/g1_prev_ui.png",
+        "isSelected":false ,
+        "sub_img": [
+            "assets/images/g1_prev_ui.png",
+            "assets/images/g2_prev_ui.png",
+            "assets/images/g3_prev_ui.png",
+            "assets/images/g4_prev_ui.png"
+        ],
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    }
+    
+]
